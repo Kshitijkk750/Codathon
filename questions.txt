@@ -1,0 +1,43 @@
+Codethon(Individual Task)
+1. Write a program to find the cube of a number use loop.
+2. .Write a function in C that reverses a given string in-place without using string
+function.
+3. Write a program to Print Prime Numbers between Two numbers.
+4. Write a program to compare two no by using the ternary operator in c.
+5. Write a program to print weekday of given date.
+6. Write a program to print EVEN numbers from 1 to N using a while loop.
+7. Write a program in C to read any Month Number in integer and display Month name in
+the word.(using switch case).
+8. Write a program to find second largest number in an array.
+9. Write a program to Multiply without using Multiplication operator (*).
+10.Write a program to read an integer and print its multiplication table.
+11.Write a program to Calculate Product of Digits of a Number.
+12. Super-Duper Micros Currently sells 100 Super-Duper per month at a profit of
+Rs.500/- per Super-Duper.They have a fixed operating cost of Rs 10,000/-that
+does not depend on the volume of sales.They currently spend Rs 1000/- per
+month on advertising. A marketing consultant advised them that if they double
+the amount spent on advertising, sales will increase by 20%.Write a program that
+begins with the Company’s current status,successively doubles the amount spent
+on advertising until the net profit begins to decline.Have a program print number
+of Super-Duper sales,the advertising budget,and the net profit just before the
+profit begins to decline. write a program on the above statement.
+13.Write a program by using switch case if user enter 11 it will have are area of
+circle and when user enter 22 it will have area of rectangle and when user enter
+33 it will give area of square when user enter 44 it will give area of triangle.
+14.Write a C program that demonstrates matrix multiplication for two 3x3 matrices,
+matrix1 and matrix2, resulting in a resultMatrix. The program checks if matrix
+multiplication is possible and performs the operation if conditions are met.
+15.What are the differences between the integer and floating-point versions of the
+arithmetic functions in terms of their parameters and return types? explain with
+code.
+16.Explain how the nested loops in the program work together to print a pyramid
+of asterisks based on the user input n. Also, provide an example of the output
+when n is set to 5. write code for it.
+17.Write a program to find the sum of two matrices of order 2*2 using
+multidimensional arrays.
+18.Write a program to sort even and odd elements of an array separately.
+19.Consider a Currency System in which there are notes of seven denominations
+,namely, Re.1,Rs2,Rs,5,Rs 10,Rs 50,Rs 100. If a sum of Rs.N is entered through the
+keyboard,write a program to compute the smallest number of notes that will
+combine to give Rs.N.
+20.Write a program to perform the concept of call by value fibonacci series.
